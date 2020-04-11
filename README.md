@@ -6,7 +6,9 @@ Check delivery times for stores
 
 ```
 >>> import instacart
+>>>
 >>> ins = instacart.Instacart()
+>>>
 >>> ins.check_delivery_times(ins.STORES["COSTCO"])
 
 Delivery Arrives Today - Apr 16
