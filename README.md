@@ -3,7 +3,7 @@ Check delivery times for stores
 
 
 # install
-clone this repo then install python requirements, and also sendmail and mutt.
+clone this repo then install python requirements (preferably in a virtualenv), and also sendmail and mutt.
 
 ```
 $ pip install -r requirements.txt
