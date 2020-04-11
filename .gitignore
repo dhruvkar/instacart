@@ -1,0 +1,15 @@
+*.pyc
+*.pyo
+Icon*
+.DS_Store
+*.swp
+*.log
+.logs
+__pycache__
+*.egg-info/
+*.eggs/
+.env
+.vscode
+.~lock*
+*.sqlite3
+.python-version
