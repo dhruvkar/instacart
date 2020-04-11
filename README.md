@@ -2,7 +2,21 @@
 Check delivery times for stores
 
 
-# USAGE
+# install
+clone this repo then install python requirements, and also sendmail and mutt.
+
+```
+$ pip install -r requirements.txt
+$ sudo apt install mutt
+$ sudo apt install sendmail
+```
+
+# create .env file
+
+rename the sample.env file to .env and fill in with your username, password and an email to get notified at
+
+
+# usage
 
 ```
 >>> import instacart
